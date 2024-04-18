@@ -1,0 +1,16 @@
+div {
+    border:1px solid black;
+
+}
+.fila{
+    display: flex;
+    margin: auto;
+    
+
+}
+.ladrillo{
+    width:70px;
+    height:20px;
+    background- color: orange;
+
+}
